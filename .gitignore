@@ -1,0 +1,8 @@
+node_modules
+public
+resources
+.netlify
+.hugo_build.lock
+.github/.DS_Store
+.DS_Store
+static/.DS_Store

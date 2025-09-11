@@ -1,0 +1,11 @@
+[nl]
+  languageName = "Nederlands"
+  contentDir = "content/nl"
+  weight = 20
+  [nl.params]
+    languageISO = "NL"
+    languageTag = "nl-NL"
+    titleAddition = "Je privéberichten gaan gescand worden"
+    description = "Informatie over wat chatcontrole is, waarom het schadelijk is en wat er tegen gedaan kan worden."
+    titleHome = "Chatcontrole"
+    footer = "Website gebouwd met <a href=\"https://gohugo.io/\">Hugo</a> en <a href=\"https://getdoks.org/\">Doks</a>."
