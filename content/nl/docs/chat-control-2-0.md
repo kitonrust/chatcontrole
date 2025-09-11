@@ -1,9 +1,8 @@
 ---
-title: "Chatcontrole: het kindermisbruik-scanvoorstel van de EU"
+title: "Chatcontrole"
 description: "Dossier met de relevante achtergrond en gegevens over het chatcontrole wetsvoorstel van de EU."
-lead: "Oorspronkelijke publicatie: <a href='https://www.patrick-breyer.de/en/posts/chat-control/'>Chat Control: The EU’s CSEM scanner proposal</a><br> 
+lead: "Oorspronkelijke publicatie: <a href='https://www.patrick-breyer.de/en/posts/chat-control/'>Chat Control: The EU’s CSAM scanner proposal</a><br> 
 Auteur: Patrick Breyer<br> 
-Publicatie: Patrick Breyer's website<br> 
 Datum: doorlopend geüpdate<br>
 In andere talen: <a href='https://www.patrick-breyer.de/beitraege/chatkontrolle/'>🇩🇪 Duits</a> | <a href='https://www.patrick-breyer.de/en/posts/chat-control/'>🇬🇧 Engels</a> | <a href='https://iloth.net/2023/05/traduction-du-dossier-chat-control-2-0-de-patrick-breyer/'>🇫🇷 Frans</a> | <a href='https://chatcontrol.se/'>🇸🇪 Zweeds</a><br>
 Hier volgt de vertaling in het Nederlands."
