@@ -58,7 +58,7 @@ defaultImage = "chatcontrole.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Website gebouwd met <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> en <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+# footer = "Website gebouwd met <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> en <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
 copyRight = "Kopieëerlinks/<a class=\"text-muted\" href=\"https://www.gnu.org/licenses/copyleft.nl.html\">auteursplicht</a>"
