@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://chatcontrole.nl/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
