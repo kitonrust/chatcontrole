@@ -3,7 +3,7 @@ title: "Chatcontrole"
 description: "Dossier met de relevante achtergrond en gegevens over het chatcontrole wetsvoorstel van de EU."
 lead: "Oorspronkelijke publicatie: <a href='https://www.patrick-breyer.de/en/posts/chat-control/'>Chat Control: The EU’s CSAM scanner proposal</a><br> 
 Auteur: Patrick Breyer<br> 
-Datum: doorlopend geüpdate<br>
+Datum: Oorspronkelijk gepubliceerd in 2022, doorlopend geüpdate<br>
 In andere talen: <a href='https://www.patrick-breyer.de/beitraege/chatkontrolle/'>🇩🇪 Duits</a> | <a href='https://www.patrick-breyer.de/en/posts/chat-control/'>🇬🇧 Engels</a> | <a href='https://iloth.net/2023/05/traduction-du-dossier-chat-control-2-0-de-patrick-breyer/'>🇫🇷 Frans</a> | <a href='https://chatcontrol.se/'>🇸🇪 Zweeds</a><br>
 Hier volgt de vertaling in het Nederlands."
 date: 2023-07-05T08:49:31+00:00
