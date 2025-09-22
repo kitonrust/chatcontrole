@@ -4,7 +4,7 @@ description: "..."
 lead: "<b>Oorspronkelijke publicatie:</b> <a href='https://data.consilium.europa.eu/doc/document/ST-11596-2025-INIT/en/pdf'><i>Proposal for a Regulation of the European Parliament and of the Council laying down rules to prevent and combat child sexual abuse -- Presidency compromise texts</i></a><br> 
 <b>Auteur:</b> Raad van de Europese Unie<br> 
 <b>Datum:</b> 24 juli 2025<br>
-<b>Betreft:</b> Een Nederlandse vertaling van het wetsvoorstel van de Europese Unie (versie van juli 2025) om vrijwel alle elektronische communicatie van alle mensen in EU-landen te laten surveilleren."
+<b>Betreft:</b> Een Nederlandse vertaling van het wetsvoorstel van de Europese Unie (versie van juli 2025) om vrijwel alle elektronische communicatie van alle mensen in EU-landen te controleren."
 date: 2025-07-24T08:49:31+00:00
 lastmod: 2025-07-24T08:49:31+00:00
 draft: false
@@ -17,138 +17,6 @@ toc: true
 ---
 
 -------
-
-<!-- TOC -->
-<!-- - [Voorstel voor een Verordening van het Europees Parlement en de Raad tot vaststelling van regels ter voorkoming en bestrijding van seksueel misbruik van kinderen](#voorstel-voor-een-verordening-van-het-europees-parlement-en-de-raad-tot-vaststelling-van-regels-ter-voorkoming-en-bestrijding-van-seksueel-misbruik-van-kinderen)
-- [Hoofdstuk I: Algemene bepalingen](#hoofdstuk-i-algemene-bepalingen)
-     - [Artikel 1: Onderwerp en toepassingsgebied](#artikel-1-onderwerp-en-toepassingsgebied)
-     - [Artikel 2: Definities](#artikel-2-definities)
-- [Hoofdstuk II: Verplichtingen van aanbieders van relevante diensten van de informatiemaatschappij ter voorkoming van online seksueel misbruik van kinderen](#hoofdstuk-ii-verplichtingen-van-aanbieders-van-relevante-diensten-van-de-informatiemaatschappij-ter-voorkoming-van-online-seksueel-misbruik-van-kinderen)
-     - [Deel 1: Verplichtingen inzake risicobeoordeling en -beperking](#deel-1-verplichtingen-inzake-risicobeoordeling-en--beperking)
-          - [Artikel 3: Risicobeoordeling](#artikel-3-risicobeoordeling)
-          - [Artikel 4 Risicobeperking](#artikel-4-risicobeperking)
-          - [Artikel 5: Risicorapportage en -categorisering](#artikel-5-risicorapportage-en--categorisering)
-          - [Artikel 6: Verplichtingen voor softwareapplicatiewinkels](#artikel-6-verplichtingen-voor-softwareapplicatiewinkels)
-     - [Deel 2: Opsporingsplicht](#deel-2-opsporingsplicht)
-          - [Artikel 7: Uitvaardiging van opsporingsbevelen](#artikel-7-uitvaardiging-van-opsporingsbevelen)
-          - [Artikel 8: Aanvullende regels betreffende opsporingsbevelen](#artikel-8-aanvullende-regels-betreffende-opsporingsbevelen)
-          - [Artikel 9: Rechtsmiddelen, informatie, rapportage en wijziging van opsporingsbevelen](#artikel-9-rechtsmiddelen-informatie-rapportage-en-wijziging-van-opsporingsbevelen)
-          - [Artikel 10: Technologieën en waarborgen](#artikel-10-technologieën-en-waarborgen)
-          - [Artikel 11: Richtsnoeren betreffende detectieverplichtingen](#artikel-11-richtsnoeren-betreffende-detectieverplichtingen)
-     - [Deel 3: Meldingsverplichtingen](#deel-3-meldingsverplichtingen)
-          - [Artikel 12: Meldingsverplichtingen en kennisgeving door de gebruikers](#artikel-12-meldingsverplichtingen-en-kennisgeving-door-de-gebruikers)
-          - [Artikel 13: Specifieke vereisten voor melding](#artikel-13-specifieke-vereisten-voor-melding)
-     - [Deel 4: Verwijderingsverplichtingen](#deel-4-verwijderingsverplichtingen)
-          - [Artikel 14: Verwijderingsbevelen](#artikel-14-verwijderingsbevelen)
-          - [Artikel 14a: Procedure voor grensoverschrijdende verwijderingsbevelen](#artikel-14a-procedure-voor-grensoverschrijdende-verwijderingsbevelen)
-          - [Artikel 15: Rechtsmiddelen en informatieverstrekking](#artikel-15-rechtsmiddelen-en-informatieverstrekking)
-     - [Deel 5: Blokkeringsverplichtingen](#deel-5-blokkeringsverplichtingen)
-          - [Artikel 16: Blokkeringsbevelen](#artikel-16-blokkeringsbevelen)
-          - [Artikel 17: Aanvullende regels met betrekking tot blokkeringsbevelen](#artikel-17-aanvullende-regels-met-betrekking-tot-blokkeringsbevelen)
-          - [Artikel 18: Rechtsmiddelen en informatieverstrekking](#artikel-18-rechtsmiddelen-en-informatieverstrekking)
-     - [Deel 5a: Verwijderingsverplichtingen](#deel-5a-verwijderingsverplichtingen)
-          - [Artikel 18a: Verwijderingsbevelen](#artikel-18a-verwijderingsbevelen)
-          - [Artikel 18aa: Procedure voor grensoverschrijdende verwijderingsbevelen](#artikel-18aa-procedure-voor-grensoverschrijdende-verwijderingsbevelen)
-          - [Artikel 18b: Aanvullende regels met betrekking tot verwijderingsbevelen](#artikel-18b-aanvullende-regels-met-betrekking-tot-verwijderingsbevelen)
-          - [Artikel 18c: Rechtsmiddelen en informatieverstrekking](#artikel-18c-rechtsmiddelen-en-informatieverstrekking)
-     - [Deel 6: Aanvullende bepalingen](#deel-6-aanvullende-bepalingen)
-          - [Artikel 19: Aansprakelijkheid van aanbieders](#artikel-19-aansprakelijkheid-van-aanbieders)
-          - [Artikel 20: Recht op informatie van slachtoffers](#artikel-20-recht-op-informatie-van-slachtoffers)
-          - [Artikel 21: Recht van slachtoffers op bijstand en ondersteuning bij verwijdering](#artikel-21-recht-van-slachtoffers-op-bijstand-en-ondersteuning-bij-verwijdering)
-          - [Artikel: 22 Bewaring van informatie](#artikel-22-bewaring-van-informatie)
-          - [Artikel 22a: Bijhouden van logs](#artikel-22a-bijhouden-van-logs)
-          - [Artikel 23: Contactpunten](#artikel-23-contactpunten)
-          - [Artikel 24: Wettelijke vertegenwoordiger](#artikel-24-wettelijke-vertegenwoordiger)
-- [Hoofdstuk III: Toezicht, handhaving en samenwerking](#hoofdstuk-iii-toezicht-handhaving-en-samenwerking)
-     - [Deel 1: Autoriteiten van de lidstaten](#deel-1-autoriteiten-van-de-lidstaten)
-          - [Artikel 25: Coördinerende autoriteiten en andere bevoegde autoriteiten](#artikel-25-coördinerende-autoriteiten-en-andere-bevoegde-autoriteiten)
-          - [Artikel 26: Vereisten voor bevoegde autoriteiten](#artikel-26-vereisten-voor-bevoegde-autoriteiten)
-     - [Deel 2: Bevoegdheden van de bevoegde autoriteiten van de lidstaten](#deel-2-bevoegdheden-van-de-bevoegde-autoriteiten-van-de-lidstaten)
-          - [Artikel 27: Onderzoeks- en handhavingsbevoegdheden](#artikel-27-onderzoeks--en-handhavingsbevoegdheden)
-          - [Artikel 31: Zoekopdrachten ter controle van de naleving](#artikel-31-zoekopdrachten-ter-controle-van-de-naleving)
-     - [Deel 3: Overige bepalingen inzake handhaving](#deel-3-overige-bepalingen-inzake-handhaving)
-          - [Artikel 33: Rechtsmacht](#artikel-33-rechtsmacht)
-          - [Artikel 34: Recht om een ​​klacht in te dienen](#artikel-34-recht-om-een-klacht-in-te-dienen)
-          - [Artikel 34a: Vertegenwoordiging](#artikel-34a-vertegenwoordiging)
-          - [Artikel 35: Sancties](#artikel-35-sancties)
-     - [Deel 4: Samenwerking](#deel-4-samenwerking)
-          - [Artikel 36: Identificatie en melding van online seksueel misbruik van kinderen](#artikel-36-identificatie-en-melding-van-online-seksueel-misbruik-van-kinderen)
-          - [Artikel 37: Grensoverschrijdende samenwerking tussen coördinerende autoriteiten](#artikel-37-grensoverschrijdende-samenwerking-tussen-coördinerende-autoriteiten)
-          - [Artikel 38: Gezamenlijke onderzoeken](#artikel-38-gezamenlijke-onderzoeken)
-          - [Artikel 38a: Wederzijdse bijstand](#artikel-38a-wederzijdse-bijstand)
-          - [Artikel 39: Samenwerking, coördinatie en informatie-uitwisselingssysteem](#artikel-39-samenwerking-coördinatie-en-informatie-uitwisselingssysteem)
-- [Hoofdstuk IV: EU-centrum voor de voorkoming en bestrijding van kindermisbruik](#hoofdstuk-iv-eu-centrum-voor-de-voorkoming-en-bestrijding-van-kindermisbruik)
-     - [Deel 1: Beginselen](#deel-1-beginselen)
-          - [Artikel 40: Oprichting en werkterrein van het EU-centrum](#artikel-40-oprichting-en-werkterrein-van-het-eu-centrum)
-     - [Artikel 41: Rechtsvorm](#artikel-41-rechtsvorm)
-          - [Artikel 42 Zetel](#artikel-42-zetel)
-     - [Deel 2: Taken](#deel-2-taken)
-          - [Artikel 43: Taken van het EU-centrum](#artikel-43-taken-van-het-eu-centrum)
-          - [Artikel 44: Databanken met indicatoren](#artikel-44-databanken-met-indicatoren)
-          - [Artikel 45: Databank met meldingen](#artikel-45-databank-met-meldingen)
-          - [Artikel 46: Toegang, nauwkeurigheid en beveiliging](#artikel-46-toegang-nauwkeurigheid-en-beveiliging)
-          - [Artikel 47: Gedelegeerde handelingen met betrekking tot de databanken](#artikel-47-gedelegeerde-handelingen-met-betrekking-tot-de-databanken)
-          - [Artikel 48: Melding](#artikel-48-melding)
-          - [Artikel 49: Zoekopdrachten en kennisgeving](#artikel-49-zoekopdrachten-en-kennisgeving)
-          - [Artikel 50: Technologieën, informatie en expertise](#artikel-50-technologieën-informatie-en-expertise)
-     - [Deel 3: Verwerking van informatie](#deel-3-verwerking-van-informatie)
-          - [Artikel 51: Verwerkingsactiviteiten en gegevensbescherming](#artikel-51-verwerkingsactiviteiten-en-gegevensbescherming)
-     - [Deel 4: Samenwerking](#deel-4-samenwerking)
-          - [Artikel 52 Contactfunctionarissen](#artikel-52-contactfunctionarissen)
-          - [Artikel 53: Samenwerking met Europol](#artikel-53-samenwerking-met-europol)
-          - [Artikel 53a: Samenwerking met andere agentschappen en organen van de Unie](#artikel-53a-samenwerking-met-andere-agentschappen-en-organen-van-de-unie)
-          - [Artikel 54: Samenwerking met partnerorganisaties](#artikel-54-samenwerking-met-partnerorganisaties)
-          - [Artikel 54a: Samenwerking met derde landen en internationale organisaties](#artikel-54a-samenwerking-met-derde-landen-en-internationale-organisaties)
-     - [Deel 5: Organisatie](#deel-5-organisatie)
-          - [Artikel 55: Administratieve en bestuurlijke structuur](#artikel-55-administratieve-en-bestuurlijke-structuur)
-     - [Deel 1: Raad van Bestuur](#deel-1-raad-van-bestuur)
-          - [Artikel 56: Samenstelling van de Raad van Bestuur](#artikel-56-samenstelling-van-de-raad-van-bestuur)
-          - [Artikel 57: Taken van de Raad van Bestuur](#artikel-57-taken-van-de-raad-van-bestuur)
-          - [Artikel 58: Voorzitter van de raad van bestuur](#artikel-58-voorzitter-van-de-raad-van-bestuur)
-          - [Artikel 59: Vergaderingen van de raad van bestuur](#artikel-59-vergaderingen-van-de-raad-van-bestuur)
-          - [Artikel 60: Stemregels van de Raad van Bestuur](#artikel-60-stemregels-van-de-raad-van-bestuur)
-     - [Deel 2: Uitvoerend Bestuur](#deel-2-uitvoerend-bestuur)
-          - [Artikel 61](#artikel-61)
-          - [Artikel 62](#artikel-62)
-          - [Artikel 63](#artikel-63)
-     - [Deel 3: Uitvoerend Directeur](#deel-3-uitvoerend-directeur)
-          - [Artikel 64: Verantwoordelijkheden van de uitvoerend directeur](#artikel-64-verantwoordelijkheden-van-de-uitvoerend-directeur)
-          - [Artikel 65: Uitvoerend directeur](#artikel-65-uitvoerend-directeur)
-          - [Onderdeel 5: Technologiecomité en Slachtofferhulpraad](#onderdeel-5-technologiecomité-en-slachtofferhulpraad)
-               - [Artikel 66: Oprichting en taken van het Technologiecomité](#artikel-66-oprichting-en-taken-van-het-technologiecomité)
-               - [Artikel 66a: Benoeming en taken van de Slachtofferraad](#artikel-66a-benoeming-en-taken-van-de-slachtofferraad)
-     - [Deel 6: Vaststelling en structuur van de begroting](#deel-6-vaststelling-en-structuur-van-de-begroting)
-          - [Onderdeel 1: Enig programmeringsdocument](#onderdeel-1-enig-programmeringsdocument)
-               - [Artikel 67: Vaststelling van de begroting](#artikel-67-vaststelling-van-de-begroting)
-          - [Onderdeel 2: Indiening, uitvoering en controle van de begroting van het EU-centrum](#onderdeel-2-indiening-uitvoering-en-controle-van-de-begroting-van-het-eu-centrum)
-               - [Artikel 68: Structuur van de begroting](#artikel-68-structuur-van-de-begroting)
-               - [Artikel 69: Indiening van de rekeningen en kwijting](#artikel-69-indiening-van-de-rekeningen-en-kwijting)
-               - [Artikel 70: Financiële regeling](#artikel-70-financiële-regeling)
-     - [Deel 7: Personeel](#deel-7-personeel)
-               - [Artikel 71: Algemene bepalingen](#artikel-71-algemene-bepalingen)
-               - [Artikel 72: Gedetacheerde nationale deskundigen en ander personeel](#artikel-72-gedetacheerde-nationale-deskundigen-en-ander-personeel)
-               - [Artikel 73: Voorrechten en immuniteiten](#artikel-73-voorrechten-en-immuniteiten)
-               - [Artikel 74: Geheimhoudingsplicht](#artikel-74-geheimhoudingsplicht)
-               - [Artikel 75: Beveiligingsvoorschriften voor de bescherming van gerubriceerde en gevoelige niet-gerubriceerde informatie](#artikel-75-beveiligingsvoorschriften-voor-de-bescherming-van-gerubriceerde-en-gevoelige-niet-gerubriceerde-informatie)
-     - [Deel 8: Algemene bepalingen](#deel-8-algemene-bepalingen)
-          - [Artikel 76: Taalregeling](#artikel-76-taalregeling)
-          - [Artikel 77: Transparantie en communicatie](#artikel-77-transparantie-en-communicatie)
-          - [Artikel 78: Fraudebestrijdingsmaatregelen](#artikel-78-fraudebestrijdingsmaatregelen)
-          - [Artikel 79: Aansprakelijkheid](#artikel-79-aansprakelijkheid)
-          - [Artikel 80: Administratieve onderzoeken](#artikel-80-administratieve-onderzoeken)
-          - [Artikel 81: Zetelovereenkomst en werkingsvoorwaarden](#artikel-81-zetelovereenkomst-en-werkingsvoorwaarden)
-          - [Artikel 82: Aanvang van de activiteiten van het EU-centrum](#artikel-82-aanvang-van-de-activiteiten-van-het-eu-centrum)
-- [Hoofdstuk V: Gegevensverzameling en transparantieverslaggeving](#hoofdstuk-v-gegevensverzameling-en-transparantieverslaggeving)
-     - [Artikel 83: Gegevensverzameling](#artikel-83-gegevensverzameling)
-     - [Artikel 84: Transparantieverslaggeving](#artikel-84-transparantieverslaggeving)
-- [Hoofdstuk VI: Slotbepalingen](#hoofdstuk-vi-slotbepalingen)
-     - [Artikel 85: Evaluatie](#artikel-85-evaluatie)
-     - [Artikel 86: Uitoefening van de bevoegdheidsdelegatie](#artikel-86-uitoefening-van-de-bevoegdheidsdelegatie)
-     - [Artikel 87: Comitéprocedure](#artikel-87-comitéprocedure)
-     - [Artikel 88: Wijziging van Verordening (EU) 2021/1232](#artikel-88-wijziging-van-verordening-eu-20211232)
-     - [Artikel 89: Inwerkingtreding en toepassing](#artikel-89-inwerkingtreding-en-toepassing) -->
-<!-- /TOC -->
-
 
 Raad van de Europese Unie
 
@@ -305,7 +173,7 @@ Overwegende hetgeen volgt:
 
 - (31a) De regels van deze verordening mogen niet worden opgevat als van invloed op de relevante nationale vereisten die, overeenkomstig het recht van de Unie, voorzien in procedurele waarborgen met betrekking tot het uitvaardigen van verwijderings-, blokkerings- of schrappingsbevelen, zoals de controle op de conformiteit van deze bevelen met de toepasselijke wettelijke vereisten door een onafhankelijke autoriteit.
 
-- (31b) Om de lidstaten in staat te stellen het proces van het uitvaardigen van verwijderings-, blokkerings- of schrappingsbevelen te organiseren op een wijze die verenigbaar is met hun respectieve grondwettelijke vereisten en om de voorafgaande rechterlijke toetsing te versterken waar dit passend wordt geacht, moeten zij de mogelijkheid hebben om hun respectieve bevoegde autoriteiten te verplichten de bevoegde rechterlijke autoriteit van de betrokken lidstaat te verzoeken om enkele of alle van deze drie soorten bevelen uit hoofde van deze verordening uit te vaardigen. Die mogelijkheid tot afwijking mag echter alleen betrekking hebben op de vraag welke autoriteit de bevelen uitvaardigt. Wanneer een lidstaat van die mogelijkheid gebruikmaakt, moet de betrokken bevoegde autoriteit derhalve verantwoordelijk blijven voor het beoordelen van de noodzaak van het betrokken bevel en voor het voldoen aan alle procedurele vereisten van deze verordening met betrekking tot de voorbereiding en follow-up ervan. In dat geval moeten, hoewel het aan de bevoegde rechterlijke autoriteit is om een ​​aanvullende verificatie uit te voeren om na te gaan of aan de voorwaarden van deze verordening voor het uitvaardigen van het betrokken bevel is voldaan, die voorwaarden zelf ongewijzigd blijven en consistent in de hele Unie worden toegepast. In het belang van de doeltreffendheid moet deze mogelijkheid afhankelijk worden gesteld van de voorwaarde dat de betrokken lidstaat alle redelijke maatregelen neemt om ervoor te zorgen dat de uitvaardiging van de bevelen door zijn rechterlijke instanties niet tot onnodige vertragingen leidt. In het belang van transparantie en rechtszekerheid moet er bovendien voor worden gezorgd dat de nodige informatie over het gebruik van deze mogelijkheid openbaar is.
+- (31b) Om de lidstaten in staat te stellen het proces van het uitvaardigen van verwijderings-, blokkerings- of schrappingsbevelen te organiseren op een wijze die verenigbaar is met hun respectieve grondwettelijke vereisten en om de voorafgaande rechterlijke toetsing te versterken waar dit passend wordt geacht, moeten zij de mogelijkheid hebben om hun respectieve bevoegde autoriteiten te verplichten de bevoegde rechterlijke autoriteit van de betrokken lidstaat te verzoeken om enkele of alle van deze drie soorten bevelen uit hoofde van deze verordening uit te vaardigen. Die mogelijkheid tot afwijking mag echter alleen betrekking hebben op de vraag welke autoriteit de bevelen uitvaardigt. Wanneer een lidstaat van die mogelijkheid gebruikmaakt, moet de betrokken bevoegde autoriteit derhalve verantwoordelijk blijven voor het beoordelen van de noodzaak van het betrokken bevel en voor het voldoen aan alle procedurele vereisten van deze verordening met betrekking tot de voorbereiding en navolging ervan. In dat geval moeten, hoewel het aan de bevoegde rechterlijke autoriteit is om een ​​aanvullende verificatie uit te voeren om na te gaan of aan de voorwaarden van deze verordening voor het uitvaardigen van het betrokken bevel is voldaan, die voorwaarden zelf ongewijzigd blijven en consistent in de hele Unie worden toegepast. In het belang van de doeltreffendheid moet deze mogelijkheid afhankelijk worden gesteld van de voorwaarde dat de betrokken lidstaat alle redelijke maatregelen neemt om ervoor te zorgen dat de uitvaardiging van de bevelen door zijn rechterlijke instanties niet tot onnodige vertragingen leidt. In het belang van transparantie en rechtszekerheid moet er bovendien voor worden gezorgd dat de nodige informatie over het gebruik van deze mogelijkheid openbaar is.
 
 - (31c) In het belang van de doeltreffendheid moeten de bevoegde autoriteiten van de lidstaten overeenkomstig deze verordening ook verwijderingsbevelen kunnen uitvaardigen tegen aanbieders van hostingdiensten die hun hoofdvestiging of hun wettelijke vertegenwoordiger in een andere lidstaat hebben. Gezien de specifieke aard van deze situatie is het passend te voorzien in een specifieke procedure voor dergelijke grensoverschrijdende verwijderingsbevelen, zodat de coördinerende autoriteit van die lidstaat deze kan controleren op bepaalde ernstige of manifeste inbreuken die zich in uitzonderlijke gevallen kunnen voordoen, maar dit krachtens het Unierecht niet kan verplichten, voor zover de toepassing van die specifieke procedure vereist is om te voldoen aan het constitutioneel recht van de betrokken lidstaat. Daartoe moeten dergelijke grensoverschrijdende verwijderingsbevelen via die coördinerende autoriteit worden verzonden naar de betrokken aanbieder van hostingdiensten. Indien die coördinerende autoriteit echter bij gemotiveerd besluit vaststelt, na een zorgvuldige en objectieve beoordeling te hebben uitgevoerd en na de coördinerende autoriteit van de lidstaat waarvan de autoriteit het verwijderingsbevel heeft uitgevaardigd, en na diens antwoord zoveel mogelijk in aanmerking te hebben genomen, dat een dergelijke inbreuk heeft plaatsgevonden, mag het verwijderingsbevel niet worden verzonden en mag het geen rechtskracht hebben. Het is dan aan de autoriteit die het grensoverschrijdende verwijderingsbevel heeft uitgevaardigd om de nodige stappen te ondernemen om het in te trekken of nietig te verklaren na kennisgeving van het gemotiveerde besluit. Alle maatregelen die in het kader van deze procedure vereist zijn, moeten zo snel mogelijk en in ieder geval binnen de gestelde termijnen worden genomen, om ervoor te zorgen dat onnodige vertragingen worden voorkomen, en zoveel mogelijk in loyale samenwerking tussen de betrokken bevoegde autoriteiten.
 
@@ -1818,7 +1686,7 @@ De administratieve en bestuurlijke structuur van het EU-centrum omvat:
      - (n) stelt passende uitvoeringsvoorschriften vast voor de uitvoering van het Statuut en de Regeling welke van toepassing is op de andere personeelsleden, overeenkomstig artikel 110, lid 2, van het Statuut;
      - (o) benoemt de uitvoerend directeur en ontslaat hem/haar uit zijn/haar functie, overeenkomstig artikel 65;
      - (p) benoemt een rekenplichtige, die de rekenplichtige van de Commissie kan zijn, met inachtneming van het Statuut en de Regeling welke van toepassing is op de andere personeelsleden, en die volledig onafhankelijk is in de uitoefening van zijn/haar taken;
-     - (q) zorgt voor een passende follow-up van bevindingen en aanbevelingen die voortvloeien uit de interne of externe auditverslagen en evaluaties, alsook uit onderzoeken van het Europees Bureau voor fraudebestrijding (OLAF);
+     - (q) zorgt voor een passende navolging van bevindingen en aanbevelingen die voortvloeien uit de interne of externe auditverslagen en evaluaties, alsook uit onderzoeken van het Europees Bureau voor fraudebestrijding (OLAF);
      - (r) de financiële regels vaststellen die van toepassing zijn op het EU-centrum;
      - (s) alle beslissingen nemen over de oprichting van de interne structuren van het EU-centrum en, waar nodig, de wijziging daarvan;
      - (t) een functionaris voor gegevensbescherming benoemen;
@@ -1897,7 +1765,7 @@ De administratieve en bestuurlijke structuur van het EU-centrum omvat:
      - (d) het opstellen van het enig programmeringsdocument en het indienen ervan bij de raad van bestuur na raadpleging van de Commissie;
      - (e) het uitvoeren van het enig programmeringsdocument en het rapporteren over de uitvoering ervan aan de raad van bestuur;
      - (f) het opstellen van het geconsolideerde jaarlijkse activiteitenverslag over de activiteiten van het EU-centrum en het ter beoordeling en goedkeuring voorleggen daarvan aan de raad van bestuur;
-     - (g) het opstellen van een actieplan voor de follow-up van de conclusies van interne of externe auditverslagen en evaluaties, alsmede van onderzoeken door het Europees Bureau voor fraudebestrijding (OLAF) en het Europees Openbaar Ministerie (EOM), en het tweemaal per jaar aan de Commissie en op gezette tijden aan de raad van bestuur verslag uitbrengen over de voortgang;
+     - (g) het opstellen van een actieplan voor opvolgen van de conclusies van interne of externe auditverslagen en evaluaties, alsmede van onderzoeken door het Europees Bureau voor fraudebestrijding (OLAF) en het Europees Openbaar Ministerie (EOM), en het tweemaal per jaar aan de Commissie en op gezette tijden aan de raad van bestuur verslag uitbrengen over de voortgang;
      - (h) het beschermen van de financiële belangen van de Unie door toepassing van preventieve maatregelen tegen fraude, corruptie en andere illegale activiteiten, onverminderd de onderzoeksbevoegdheid van OLAF en het EOM, door middel van doeltreffende controles en, indien onregelmatigheden worden vastgesteld, door terugvordering van ten onrechte betaalde bedragen en door melding te maken van strafbare gedragingen ten aanzien waarvan het EOM zijn bevoegdheid kan uitoefenen overeenkomstig artikel 24 van Verordening (EU) 2017/1939.
      - (i) het opstellen van een fraudebestrijdingsstrategie, een strategie voor efficiëntiewinst en synergieën, een strategie voor samenwerking met derde landen en/of internationale organisaties en een strategie voor de organisatorische management- en internecontrolesystemen van het EU-centrum en het ter goedkeuring voorleggen daarvan aan de raad van bestuur;
      - (j) het opstellen van een ontwerp van financiële regeling die van toepassing is op het EU-centrum;
@@ -2179,7 +2047,7 @@ De activiteiten van het EU-centrum zijn onderworpen aan onderzoeken van de Europ
 
 - (2) De coördinerende autoriteiten baseren zich zoveel mogelijk op informatie die op geautomatiseerde wijze is verzameld via het informatie-uitwisselingssysteem of de informatie-uitwisselingssystemen als bedoeld in artikel 39, lid 2a, en op soortgelijke systemen die kunnen worden gebruikt voor de uitwisseling van informatie op nationaal niveau. Zij verzamelen gegevens over de volgende onderwerpen en stellen deze informatie op verzoek ter beschikking aan het EU-centrum:
 
-     - (a) de follow-up van meldingen van mogelijk online seksueel misbruik van kinderen die het EU-centrum overeenkomstig artikel 48, lid 3, heeft doorgestuurd, waarbij voor elke melding het volgende wordt vermeld:
+     - (a) het vervolgcontact van meldingen van mogelijk online seksueel misbruik van kinderen die het EU-centrum overeenkomstig artikel 48, lid 3, heeft doorgestuurd, waarbij voor elke melding het volgende wordt vermeld:
 
           - of de melding heeft geleid tot de start van een strafrechtelijk onderzoek of heeft bijgedragen aan een lopend onderzoek;
           - indien de melding heeft geleid tot de start van een strafrechtelijk onderzoek of heeft bijgedragen aan een lopend onderzoek, de uitkomst van het onderzoek;
@@ -2213,7 +2081,7 @@ De activiteiten van het EU-centrum zijn onderworpen aan onderzoeken van de Europ
 
   Zij zorgen ervoor dat de gegevens veilig worden opgeslagen en dat de opslag onderworpen is aan passende technische en organisatorische waarborgen. Deze waarborgen zorgen er met name voor dat de gegevens uitsluitend toegankelijk zijn en verwerkt kunnen worden voor het doel waarvoor ze zijn opgeslagen, dat een hoog beveiligingsniveau wordt bereikt en dat de informatie wordt verwijderd wanneer deze niet langer nodig is voor dat doel. Zij evalueren deze waarborgen regelmatig en passen ze zo nodig aan.
 
-- (5) De Commissie is bevoegd overeenkomstig artikel 86 gedelegeerde handelingen vast te stellen om deze verordening aan te vullen met de nodige gedetailleerde regels betreffende het proces van gegevensverzameling en categorisering van de gegevens die overeenkomstig de leden 1 tot en met 4 moeten worden verzameld, ten behoeve van de follow-up van de verslagen en de toepassing van de verordening.
+- (5) De Commissie is bevoegd overeenkomstig artikel 86 gedelegeerde handelingen vast te stellen om deze verordening aan te vullen met de nodige gedetailleerde regels betreffende het proces van gegevensverzameling en categorisering van de gegevens die overeenkomstig de leden 1 tot en met 4 moeten worden verzameld, ten behoeve van het vervolgcontact van de verslagen en de toepassing van de verordening.
 
 ### Artikel 84: Transparantieverslaggeving
 
@@ -2312,4 +2180,19 @@ Voor de Raad
 
 ------
 
-Annex I tot en met XIV volgen binnenkort.
+## Bijlagen
+
+- [Bijlage I: Model voor opsporingsopdrachten](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-i)
+- [Bijlage II: Model voor informatie over de onmogelijkheid om het opsporingsbevel ten uitvoer te leggen](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-ii)
+- [Bijlage III: Model voor meldingen](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-iii)
+- [Bijlage IV: Model voor verwijderingsbevelen](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-iv)
+- [Bijlage V: Model voor informatie over de onmogelijkheid om het verwijderingsbevel uit te voeren](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-v)
+- [Bijlage VI: Model voor informatie over de uitvoering van het verwijderingsbevel](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-vi)
+- [Bijlage VII: Model voor blokkeringsbevelen](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-vii)
+- [Bijlage VIII: Model voor informatie over de onmogelijkheid om het blokkeringsbevel ten uitvoer te leggen](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-viii)
+- [Bijlage IX: Model voor informatie over de tenuitvoerlegging van het blokkeringsbevel](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-ix)
+- [Bijlage X: Model voor schrappingsbevelen](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-x)
+- [Bijlage XI: Model voor informatie over de onmogelijkheid om het verwijderingsbevel uit te voeren](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-xi)
+- [Bijlage XII: Model voor informatie over de uitvoering van het schrappingsbevel](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-xii)
+- [Bijlage XIII: Correlatietabel](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-xiii)
+- [Bijlage XIV Methodologie en criteria voor de risicocategorisering van diensten](/docs/eu-chatcontrole-voorstel-versie-juli-2025/bijlage-xiv)

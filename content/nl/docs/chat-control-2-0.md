@@ -1,5 +1,5 @@
 ---
-title: "Chatcontrole"
+title: "Chatcontrole 2.0"
 description: "Dossier met de relevante achtergrond en gegevens over het chatcontrole wetsvoorstel van de EU."
 lead: "Oorspronkelijke publicatie: <a href='https://www.patrick-breyer.de/en/posts/chat-control/'>Chat Control: The EU’s CSAM scanner proposal</a><br> 
 Auteur: Patrick Breyer<br> 
