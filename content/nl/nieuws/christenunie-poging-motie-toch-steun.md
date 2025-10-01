@@ -1,8 +1,8 @@
 ---
 title: "ChristenUnie probeert met kamermotie Nederland toch achter Chatcontrole te krijgen" 
 description: "De ChristenUnie wil met een kamermotie Nederlandse steun voor Chatcontrole afdwingen. De staatssecretaris noemt de motie 'ontijdig'"
-date: 2025-10-01T14:49:31+00:00
-lastmod: 2025-10-01T14:49:31+00:00
+date: 2025-10-01
+lastmod: 2025-10-01
 draft: false
 images: []
 contributors: []
