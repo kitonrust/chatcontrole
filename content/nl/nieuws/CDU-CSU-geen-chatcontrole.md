@@ -14,7 +14,7 @@ weight: 630
 toc: true
 ---
 
-De Duitse regeringspartij CDU/CSU heeft vandaag duidelijk gemaakt dat er onder deze Duitse regering geen chatcontrole komt.
+Jens Spahn, voorzitter van de Duitse regeringspartij CDU/CSU, heeft vandaag duidelijk gemaakt dat er onder deze regering geen chatcontrole komt.
 
 <video controls width="100%" src="/images/CDU-CSU-2025-10.mp4">
 </video>
