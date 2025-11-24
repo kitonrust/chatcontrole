@@ -1,3 +1,19 @@
+---
+title: "Nederland niet langer van plan om tegen chatcontrole te stemmen" 
+description: "De Nederlandse regering is niet langer van plan tegen het nieuwste chatcontrole-voorstel te stemmen. Dat liet minister Van Oosten de Tweede Kamer onlangs weten. Dit is een onwelkome verandering van standpunt, want de grote bezwaren tegen het scannen van privéberichten van willekeurige burgers staan nog altijd overeind."
+date: 2025-11-24
+lastmod: 2025-11-24
+draft: false
+images: []
+contributors: []
+categories: []
+menu:
+  docs:
+    parent: 
+weight: 630
+toc: true
+---
+
 __Nederland stemt niet langer tegen het ‘chatcontrole’-voorstel van de Europese Unie. Dat liet minister Foort van Oosten weten [in een kamerbrief](https://chatcontrole.nl/nieuws/kamerbrief-positie-nederland-18-nov-2025/). Het EU-voorstel, ook wel bekend als de CSAM-Verordening, is erop gericht om privéberichten van alle gebruikers van online communicatiediensten preventief te laten scannen. In plaats van tegen het voorstel te stemmen, zal Nederland zich nu van stemming onthouden. Deze opstelling druist in tegen de breedgedragen bezwaren onder kamerleden, inlichtingendiensten en computerexperts.__
 
 ## Ontoelaatbaar 
