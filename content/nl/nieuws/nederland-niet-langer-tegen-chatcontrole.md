@@ -28,12 +28,12 @@ In de nieuwste versie van het chatcontrole-voorstel heeft het voorzitterschap va
 
 Het zwaartepunt ligt nu op vrijwillig scannen, dat sterker zou worden gestimuleerd. Bedrijven zouden door vrijwillig alle berichten te scannen zichzelf kunnen bewijzen als ‘verantwoordelijk’, en ermee kunnen voorkomen dat bepaalde opsporingsverplichtingen onvrijwillig worden opgelegd. Het is de aanpak van wortel-en-stok, waardoor bedrijven die anders niet alle berichten zouden scannen, dat onder de nieuwe regelgeving wél zouden gaan doen.
 
-In zijn kamerbrief doet minister van Oosten het lijken alsof hiermee de bezwaren tegen het voorstel minder ernstig zouden zijn geworden. Maar dit is niet het geval. Immers, de inbreuk op privacy en de zorgen over _spyware_ zijn niet gebaseerd op het verplichten van scannen van de privécommunicatie van willekeurige burgers, maar juist op dat scannen zelf. Het nieuwe voorstel zou de praktijk van scannen doen toenemen, en dat is onacceptabel.
+In zijn kamerbrief doet minister van Oosten het lijken alsof hiermee de bezwaren tegen het voorstel minder ernstig zouden zijn geworden. Maar dit is niet het geval. Immers, de inbreuk op privacy en de zorgen over _spyware_ zijn niet gebaseerd op het _verplichten_ van scannen van de privécommunicatie van willekeurige burgers, maar juist op dat scannen zélf. Het nieuwe voorstel zou de praktijk van scannen doen toenemen, en dat is onacceptabel.
 
 ## Stemming
 
 Er wordt op woensdag 26 november over het nieuwe chatcontrole-voorstel gestemd tijdens de Coreper-vergadering van de EU. Zou Nederland zich van stemming onthouden, dan zal ons land niet meer deel uitmaken van de mogelijk blokkerende minderheid die het chatcontrole-voorstel tot nogtoe heeft weten tegen te houden.
 
-Op maandag 24 november bevragen kamerleden de minister [in een commissiedebat](https://chatcontrole.nl/nieuws/commissiedebat-24-nov-2025/) over het onderwerp. Ze zouden van de minister moeten eisen de Nederlandse tegenstem te behouden, en hem hiervoor desnoods middels een kamermotie te bewegen.
+Op maandag 24 november bevragen kamerleden de minister [in een commissiedebat](https://chatcontrole.nl/nieuws/commissiedebat-24-nov-2025/) over het onderwerp. Ze zouden van de minister moeten eisen de Nederlandse tegenstem te behouden, en hem hiertoe desnoods middels een kamermotie bewegen.
 
  
