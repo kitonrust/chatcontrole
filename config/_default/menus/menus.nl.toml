@@ -4,11 +4,6 @@
   weight = 1
 
 [[main]]
-  name = "Stemwijzer"
-  url = "/stemwijzer2025/"
-  weight = 5
-
-[[main]]
   name = "Tijdlijn"
   url = "/tijdlijn/"
   weight = 10
